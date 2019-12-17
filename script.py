@@ -7,7 +7,7 @@ type2 = '\t\t<td align="center" bgcolor="white" colspan="1" rowspan="1">'
 binary = ''
 
 # Tool Based on HTML Steganography and Platinum APT
-# By Astr0 
+# By Astr0 || Twitter: @4lk4_Astr0
 
 
 def encode():
